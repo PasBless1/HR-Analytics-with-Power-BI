@@ -43,6 +43,11 @@ This project is centered around HR analytics and aims to provide deep insights i
    - Imported cleaned data from the Excel file into Power BI.
    - Created interactive visualizations that allow for drill-down into specific areas such as department performance, recruitment efficiency, and employee satisfaction metrics.
    - Developed a user-friendly interface enabling HR managers to customize views and focus on areas of interest.
+  
+     ![image](https://github.com/user-attachments/assets/b8b1e3e5-a1ee-4837-ac8e-20256bdd1d22)
+     ![image](https://github.com/user-attachments/assets/3735a4cd-40f9-45c6-bb6d-9c6b51f9f598)
+
+
 
 4. **Insights & Recommendations:**
    - **Strategic HR Planning**: Recommendations on improving hiring practices based on the efficiency of recruitment channels.
